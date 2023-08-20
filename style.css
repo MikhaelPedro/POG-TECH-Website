@@ -1,0 +1,59 @@
+/* style.css */
+
+/* Estilo para o cabeçalho */
+header.jumbotron {
+    background-color: #007bff;
+    color: #fff;
+    padding: 100px 0;
+}
+
+/* Estilo para os títulos */
+h1, h2 {
+    color: #343a40;
+}
+
+/* Estilo para a barra de navegação */
+.navbar {
+    background-color: #dc3545;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #000;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+    font-weight: 500;
+}
+
+/* Estilo para as seções */
+section.container {
+    margin-top: 50px;
+}
+
+/* Estilo para os ícones de serviços */
+.service-icon {
+    font-size: 3rem;
+    color: #dc3545;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Estilo para botões */
+.btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-primary:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
